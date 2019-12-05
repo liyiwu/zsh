@@ -2,4 +2,4 @@
 
 zsh config files from grml.
 
-Fix sivlersearcher-ag can't run.
+Unset apt alias to fix that sivlersearcher-ag can't run.
